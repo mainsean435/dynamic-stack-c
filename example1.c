@@ -10,7 +10,7 @@
 #include "stack.h"
 
 
-int main2() {
+int main() {
   printf("Enter a string: ");
   char *word, *input;
   scanf("%m[^\n]", &input);
