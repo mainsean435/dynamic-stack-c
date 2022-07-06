@@ -13,7 +13,7 @@ typedef struct Node {
 } Node_t;
 
 
-int main2(int argc, char **argv) {
+int main(int argc, char **argv) {
   
   int num_nodes = 10;
   if (argc == 2) {
